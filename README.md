@@ -1,1 +1,1 @@
-# Blog_generation-
+# Blog_Generation_Model
